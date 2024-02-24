@@ -2,7 +2,7 @@
 
 👩‍💻 **Software Developer** | 📱 **Junior iOS Engineer** | 📊 **Scientific Researcher**
 
-📧 **Email:** sadeelmu@outlook.com | 🌐 **LinkedIn:** [Sadeel Muwahed](https://www.linkedin.com/in/sadeel-muwahed/) 
+📧 **Email:** sadeelmu@outlook.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sadeel-muwahed/)
 
 ---
 
@@ -15,40 +15,18 @@ Diligent developer with strong analytical skills and adaptability to new technol
 ### Skills
 
 #### Programming Languages
-- Swift/SwiftUI 📱
-- JavaScript 💻
-- Java ☕
-- Kotlin 🚀
-- Python 🐍
-- SQL 🛢️
-- Dart 🎯
-- C# ⌨️
-- C++ 🖥️
-- C 📝
+- Swift/SwiftUI 📱 - JavaScript 💻 - Java ☕ - Kotlin 🚀 - Python 🐍
+- SQL 🛢️ - Dart 🎯 - C# ⌨️ - C++ 🖥️ - C 📝
 
 #### Softwares and Frameworks
-- Linux 🐧
-- Git and GitHub/GitLab 🛠️
-- Agile and Scrum 🔄
-- Kanban 📌
-- Xcode 📱
-- Unity 🎮
-- ASP.NET 🌐
-- jQuery 📊
-- Flutter 🦋
+- Linux 🐧 - Git and GitHub/GitLab 🛠️ - Agile and Scrum 🔄 - Kanban 📌 - Xcode 📱
+- Unity 🎮 - ASP.NET 🌐 - jQuery 📊 - Flutter 🦋
 
 #### Databases
-- MySQL 🗃️
-- Oracle 🏺
-- liveSQL 💾
-- Firebase 🔥
-- phpMyAdmin 🖥️
+- MySQL 🗃️ - Oracle 🏺 - liveSQL 💾 - Firebase 🔥 - phpMyAdmin 🖥️
 
 #### Languages
-- C2 English (IELTS 8.5) 🇬🇧
-- A2 French (DELF A1 90) 🇫🇷
-- A1 German 🇩🇪
-- C2 Arabic 🇸🇦
+- C2 English (IELTS 8.5) 🇬🇧 - A2 French (DELF A1 90) 🇫🇷 - A1 German 🇩🇪 - C2 Arabic 🇸🇦
 
 ---
 
@@ -81,7 +59,7 @@ Diligent developer with strong analytical skills and adaptability to new technol
 #### Freelance Mobile Flutter Developer, MASH
 - Developed using Flutter the cross-platform dating application 'Mash', managing application architecture, structure, user interface and services, and integration.
 - Conducted continuous validation through comprehensive testing for bugs and issues.
-- Location: Paris, France (Aug 2022 – Jan 2023)
+- Location: Remote Paris, France (Aug 2022 – Jan 2023)
 
 ---
 
