@@ -14,18 +14,40 @@ Diligent developer with strong analytical skills and adaptability to new technol
 ### Skills
 
 #### Programming Languages
-- Swift/SwiftUI 📱 - JavaScript 💻 - Java ☕ - Kotlin 🚀 - Python 🐍
-- SQL 🛢️ - Dart 🎯 - C# ⌨️ - C++ 🖥️ - C 📝
+- Swift 📱
+- JavaScript 💻
+- Java ☕
+- Kotlin 🚀
+- Python 🐍
+- SQL 🛢️
+- Dart 🎯
+- C# ⌨️
+- C++ 🖥️
+- C 📝
 
 #### Softwares and Frameworks
-- Linux 🐧 - Git and GitHub/GitLab 🛠️ - Agile and Scrum 🔄 - Kanban 📌 - Xcode 📱
-- Unity 🎮 - ASP.NET 🌐 - jQuery 📊 - Flutter 🦋
+- Linux 🐧
+- Git and GitHub/GitLab 🛠️
+- Agile and Scrum 🔄
+- Kanban 📌
+- Xcode 📱
+- Unity 🎮
+- ASP.NET 🌐
+- jQuery 📊
+- Flutter 🦋
 
 #### Databases
-- MySQL 🗃️ - Oracle 🏺 - liveSQL 💾 - Firebase 🔥 - phpMyAdmin 🖥️
+- MySQL 🗃️
+- Oracle 🏺
+- liveSQL 💾
+- Firebase 🔥
+- phpMyAdmin 🖥️
 
 #### Languages
-- C2 English (IELTS 8.5) 🇬🇧 - A2 French (DELF A1 90) 🇫🇷 - A1 German 🇩🇪 - C2 Arabic 🇸🇦
+- C2 English (IELTS 8.5) 🇬🇧
+- A2 French (DELF A1 90) 🇫🇷
+- A1 German 🇩🇪
+- C2 Arabic 🇸🇦
 
 ---
 
