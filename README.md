@@ -2,8 +2,7 @@
 
 👩‍💻 **Software Developer** | 📱 **Junior iOS Engineer** | 📊 **Scientific Researcher**
 
-📧 **Email:** sadeelmu@outlook.com | [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sadeel-muwahed/)
-
+📧 **Email:** sadeelmu@outlook.com | 🌐 **LinkedIn:** [Sadeel Muwahed](https://www.linkedin.com/in/sadeel-muwahed/) 
 ---
 
 ### Summary
