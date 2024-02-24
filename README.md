@@ -2,7 +2,7 @@
 
 👩‍💻 **Software Developer** | 📱 **Junior iOS Engineer** | 📊 **Scientific Researcher**
 
-📧 **Email:** sadeelmu@outlook.com | 🌐 **LinkedIn:** [Sadeel Muwahed](https://www.linkedin.com/in/sadeel-muwahed/) | 🐙 **GitHub:** [sadeelmu](https://github.com/sadeelmu)
+📧 **Email:** sadeelmu@outlook.com | 🌐 **LinkedIn:** [Sadeel Muwahed](https://www.linkedin.com/in/sadeel-muwahed/) 
 
 ---
 
