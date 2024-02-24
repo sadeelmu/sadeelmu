@@ -10,7 +10,31 @@
 
 Diligent developer with strong analytical skills and adaptability to new technologies. Eager to apply technical proficiency and innovative thinking in a dynamic role, committed to contributing within a collaborative team.
 
----
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const anmol = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Python", "Java", "PHP"],
+    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Fastify", "Express"],
+        },
+        mobileApp: {
+            native: ["Android Development"]
+        },
+        devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
+        databases: ["mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+    },
+    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
+    currentFocus: "No Focus point at this time",
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
 
 ### Skills
 
@@ -28,7 +52,7 @@ Diligent developer with strong analytical skills and adaptability to new technol
 #### Languages
 - C2 English (IELTS 8.5) 🇬🇧 - A2 French (DELF A1 90) 🇫🇷 - A1 German 🇩🇪 - C2 Arabic 🇸🇦
 
----
+
 
 
 ### Experience
@@ -49,7 +73,7 @@ Diligent developer with strong analytical skills and adaptability to new technol
 - Conducted continuous validation through comprehensive testing for bugs and issues.
 - Location: Remote Paris, France (Aug 2022 – Jan 2023)
 
----
+
 ### Projects
 
 #### Asthmaguard
