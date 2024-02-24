@@ -1,6 +1,6 @@
 # Hi there, I'm Sadeel Muwahed! 👋
 
-👨‍💻 **Software Developer** | 📱 **Junior iOS Engineer** | 📊 **Scientific Researcher**
+👨‍💻 **Junior iOS Engineer** | 📱 **Mobile App Developer** | 📊 **Scientific Researcher**
 
 📧 **Email:** sadeelmu@outlook.com | 🌐 **LinkedIn:** [Sadeel Muwahed](https://www.linkedin.com/in/sadeel-muwahed/) | 🐙 **GitHub:** [sadeelmu](https://github.com/sadeelmu)
 
@@ -56,7 +56,7 @@ Diligent developer with strong analytical skills and adaptability to new technol
 
 ### Asthmaguard
 - Undergraduate thesis focusing on revolutionizing asthma detection and management through predictive algorithms.
-- Technologies: Swift, SwiftUI, SQL, Python, APIs, IoT.
+- Technologies: Swift, SwiftUI, SQL, Python and Predictive Algorithms, APIs, Artifical Intelligence Expert System, IoT and Sensors.
 - Status: Oct 2023 – present
 
 ### Ride Sharing All-in-One App
