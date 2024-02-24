@@ -1,6 +1,6 @@
-# Hi there, I'm Sadeel Muwahed! 👋
+## Sadeel Muwahed 👩‍💻
 
-👨‍💻 **Software Developer** | 📱 **Junior iOS Engineer** | 📊 **Scientific Researcher**
+👩‍💻 **Software Developer** | 📱 **Junior iOS Engineer** | 📊 **Scientific Researcher**
 
 📧 **Email:** sadeelmu@outlook.com | 🌐 **LinkedIn:** [Sadeel Muwahed](https://www.linkedin.com/in/sadeel-muwahed/) 
 
