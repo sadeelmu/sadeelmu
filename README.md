@@ -35,7 +35,7 @@ let sadeel = [
         "databases": ["Oracle", "MySql", "liveSQL"],
         "misc": ["Unity", "Firebase", "phpMyAdmin", "jQuery", "ASP.net"]
     ],
-    "askMeAbout": ["app dev", "music", "sensor tracking and movement", "web dev", "tech", "muay thai"]
+    "askMeAbout": ["app dev", "music", "sensor tracking and movement", "web dev", "tech", "muay thai", "fractals", "tetris"]
 ]
 ```
 
