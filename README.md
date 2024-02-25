@@ -39,16 +39,37 @@ let sadeel = [
 ]
 ```
 
+--
 
-### Skills
+### Experience
 
-#### Programming Languages
-- Swift/SwiftUI 📱 - JavaScript 💻 - Java ☕ - Kotlin 🚀 - Python 🐍
-- SQL 🛢️ - Dart 🎯 - C# ⌨️ - C++ 🖥️ - C 📝
+#### Junior iOS Engineer, CAFU
+- Designing and developing new features, enhancing and maintaining legacy code for an application with 100,000 daily active users.
+- Collaborated with the mobile team, applying Agile principles, utilizing the Scrum and Kanban frameworks, using software development tools such as Jira, and employing Git for development.
+- Location: Remote Dubai, UAE (Dec 2023 – present)
 
-#### Softwares and Frameworks
-- Linux 🐧 - Git and GitHub/GitLab 🛠️ - Agile and Scrum 🔄 - Kanban 📌 - Xcode 📱
-- Unity 🎮 - ASP.NET 🌐 - jQuery 📊 - Flutter 🦋
+#### Mobile Application Developer and Scientific Researcher, EuroMov
+- Developed a multi-platform mobile application with a complex algorithm aiding individuals with Parkinson's disease.
+- Conducted scientific research on gesture recognition tools and artificial intelligence algorithms for music generation.
+- Built compatible iOS and Android native applications using Swift and Kotlin.
+- Location: Montpellier, France (Jun 2023 – Dec 2023)
+
+#### Freelance Mobile Flutter Developer, MASH
+- Developed using Flutter the cross-platform dating application 'Mash', managing application architecture, structure, user interface and services, and integration.
+- Conducted continuous validation through comprehensive testing for bugs and issues.
+- Location: Remote Paris, France (Aug 2022 – Jan 2023)
+
+--
+### Projects
+
+#### Asthmaguard
+- Undergraduate thesis focusing on revolutionizing asthma detection and management through predictive algorithms.
+- Technologies: Swift, SwiftUI, SQL, Python and Predictive Algorithms, APIs, Artificial Intelligence Expert System, IoT and Sensors.
+- Status: Oct 2023 – present
+
+#### Ride Sharing All-in-One App
+- Developed cross-platform application enabling users to compare and access multiple ride-sharing platforms.
+- Technologies: Flutter, Dart, Firebase, Google APIs.
 
 
 
