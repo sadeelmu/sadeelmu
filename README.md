@@ -39,7 +39,7 @@ let sadeel = [
 ]
 ```
 
---
+---
 
 ### Experience
 
@@ -59,7 +59,7 @@ let sadeel = [
 - Conducted continuous validation through comprehensive testing for bugs and issues.
 - Location: Remote Paris, France (Aug 2022 – Jan 2023)
 
---
+---
 ### Projects
 
 #### Asthmaguard
