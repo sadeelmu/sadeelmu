@@ -11,7 +11,7 @@
 Diligent developer with strong analytical skills and adaptability to new technologies. Eager to apply technical proficiency and innovative thinking in a dynamic role, committed to contributing within a collaborative team.
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### ⭐ A little more about me...  
 
 ```swift
 let sadeel = [
@@ -19,18 +19,23 @@ let sadeel = [
     "code": ["Swift", "Dart", "Javascript", "Java", "Kotlin", "Python", "SQL", "C#", "C++", "C"],
     "technologies": [
         "mobileApp": [
-            "native": ["iOS Development", "Android Development"],
-            "crossplatform": ["iOS Development", "Android Development"]
+            "native and crossplatform": ["iOS development", "android development", "flutter"],
         ],
-        "dataScience": [
-            "ai": ["Python"]
+            "webdev":[
+                "webProgramming":["javascript", "css5", "html", "jquery", "phpMyAdmin"],
+                "advancedInternetProgramming":["asp.net", "c#", "javascript", "html", "css"]
+            ]
+            "optimizations":["algorithms", "data structures"]
+            "ai": ["machine learning", "expert systems", "datascience", "predictive algorithms"],
+            "gamedev":["unity", "visual programming"]
+            "iot":["robotics", "smartwatches", "xbox kinect"]
         ],
         "softwares": ["Linux", "Git"],
-        "frameworks": ["Agile", "Scrum", "Kanban"],
+        "frameworks": ["Flutter", "Agile", "Scrum", "Kanban"],
         "databases": ["Oracle", "MySql", "liveSQL"],
         "misc": ["Unity", "Firebase", "phpMyAdmin", "jQuery", "ASP.net"]
     ],
-    "askMeAbout": ["app dev", "music", "web dev", "tech", "muay thai"]
+    "askMeAbout": ["app dev", "music", "sensor tracking and movement", "web dev", "tech", "muay thai"]
 ]
 ```
 
@@ -45,9 +50,6 @@ let sadeel = [
 - Linux 🐧 - Git and GitHub/GitLab 🛠️ - Agile and Scrum 🔄 - Kanban 📌 - Xcode 📱
 - Unity 🎮 - ASP.NET 🌐 - jQuery 📊 - Flutter 🦋
 
-#### Databases
-- MySQL 🗃️ - Oracle 🏺 - liveSQL 💾 - Firebase 🔥 - phpMyAdmin 🖥️
 
-#### Languages
-- C2 English (IELTS 8.5) 🇬🇧 - A2 French (DELF A1 90) 🇫🇷 - A1 German 🇩🇪 - C2 Arabic 🇸🇦
+
 
