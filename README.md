@@ -43,25 +43,18 @@ let sadeel = [
 
 ### Experience
 
-#### Junior iOS Engineer, CAFU
+#### Junior iOS Engineer, [CAFU](https://www.cafu.com/)
 - Designing and developing new features, enhancing and maintaining legacy code for an application with 100,000 daily active users.
 - Collaborated with the mobile team, applying Agile principles, utilizing the Scrum and Kanban frameworks, using software development tools such as Jira, and employing Git for development.
 - Location: Remote Dubai, UAE (Dec 2023 – present)
-- [Company Website](https://www.cafu.com/)
 
-#### Mobile Application Developer and Scientific Researcher, EuroMov
+#### Mobile Application Developer and Scientific Researcher, [European Centre for Research on Human Movement](https://dhm.euromov.eu/)
 - Developed a multi-platform mobile application with a complex algorithm aiding individuals with Parkinson's disease.
 - Conducted scientific research on gesture recognition tools and artificial intelligence algorithms for music generation.
 - Built compatible iOS and Android native applications using Swift and Kotlin.
 - Location: Montpellier, France (Jun 2023 – Dec 2023)
-- [Company Website](https://dhm.euromov.eu/)
 
-#### Freelance Mobile Flutter Developer, MASH
+#### Freelance Mobile Flutter Developer, [MASH](https://apps.apple.com/jo/app/mash/id6444130930)
 - Developed using Flutter the cross-platform dating application 'Mash', managing application architecture, structure, user interface and services, and integration.
 - Conducted continuous validation through comprehensive testing for bugs and issues.
 - Location: Remote Paris, France (Aug 2022 – Jan 2023)
-- [Project Website](https://apps.apple.com/jo/app/mash/id6444130930)
-
-
-
-
