@@ -30,7 +30,7 @@ let sadeel = [
         "misc": ["Unity", "Firebase", "phpMyAdmin", "jQuery", "ASP.net"]
     ],
     "pronouns": ["She", "Her"],
-    "askMeAbout": ["app dev", "music", "sensor tracking and movement", "web dev", "tech", "muay thai", "fractals", "tetris", "hearts"]
+    "askMeAbout": ["app dev", "music", "sensor tracking and movement", "web dev", "tech", "muay thai", "fractals", "tetris"]
 ]
 ```
 
