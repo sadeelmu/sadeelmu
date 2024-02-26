@@ -15,26 +15,26 @@ Diligent developer with strong analytical skills and adaptability to new technol
 
 ```swift
 let sadeel = [
-    "pronouns": ["She", "Her"],
     "code": ["Swift", "Dart", "Javascript", "Java", "Kotlin", "Python", "SQL", "C#", "C++", "C"],
     "technologies": [
         "mobileApp": [
             "native and crossplatform": ["iOS development", "android development", "flutter"],
         ],
-            "webdev":[
+            "optimizations":["algorithms", "data structures"],
+            "ai": ["machine learning", "expert systems", "datascience", "predictive algorithms"],
+            "gamedev":["unity", "visual programming"],
+            "iot":["robotics", "smartwatches", "xbox kinect"],
+        "webdev":[
                 "webProgramming":["javascript", "css5", "html", "jquery", "phpMyAdmin"],
                 "advancedInternetProgramming":["asp.net", "c#", "javascript", "html", "css"]
-            ]
-            "optimizations":["algorithms", "data structures"]
-            "ai": ["machine learning", "expert systems", "datascience", "predictive algorithms"],
-            "gamedev":["unity", "visual programming"]
-            "iot":["robotics", "smartwatches", "xbox kinect"]
+            ],
         ],
         "softwares": ["Linux", "Git"],
         "frameworks": ["Flutter", "Agile", "Scrum", "Kanban"],
         "databases": ["Oracle", "MySql", "liveSQL"],
         "misc": ["Unity", "Firebase", "phpMyAdmin", "jQuery", "ASP.net"]
     ],
+    "pronouns": ["She", "Her"],
     "askMeAbout": ["app dev", "music", "sensor tracking and movement", "web dev", "tech", "muay thai", "fractals", "tetris"]
 ]
 ```
