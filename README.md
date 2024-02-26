@@ -49,7 +49,7 @@ let sadeel = [
 - Built compatible iOS and Android native applications using Swift and Kotlin.
 - Location: Montpellier, France (Jun 2023 – Dec 2023)
 
-##### Freelance Mobile Flutter Developer, [MASH](https://apps.apple.com/jo/app/mash/id6444130930)
+##### Freelance Mobile Flutter Developer, [MASH](https://github.com/sadeelmu/mashproject)
 - Developed using Flutter the cross-platform dating application 'Mash', managing application architecture, structure, user interface and services, and integration.
 - Conducted continuous validation through comprehensive testing for bugs and issues.
 - Location: Remote Paris, France (Aug 2022 – Jan 2023)
