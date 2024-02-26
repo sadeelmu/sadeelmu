@@ -6,11 +6,6 @@
 
 ---
 
-### Summary
-
-Diligent developer with strong analytical skills and adaptability to new technologies. Eager to apply technical proficiency and innovative thinking in a dynamic role, committed to contributing within a collaborative team.
-
-
 ### ⭐ A little more about me...  
 
 ```swift
