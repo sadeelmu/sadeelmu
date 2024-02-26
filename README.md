@@ -59,17 +59,6 @@ let sadeel = [
 - Conducted continuous validation through comprehensive testing for bugs and issues.
 - Location: Remote Paris, France (Aug 2022 – Jan 2023)
 
----
-### Projects
-
-#### Asthmaguard
-- Undergraduate thesis focusing on revolutionizing asthma detection and management through advanced algorithms based on predictive analysis of the expert system derived from data science and sensor data derived from smart watches.
-- Technologies: Swift, SwiftUI, SQL, Python and Predictive Algorithms, APIs, Artificial Intelligence and Expert System, IoT and Smart Watches.
-- Status: Oct 2023 – present
-
-#### Ride Sharing All-in-One App
-- Developed cross-platform application enabling users to compare and access multiple ride-sharing platforms.
-- Technologies: Flutter, Dart, Firebase, Google APIs.
 
 
 
