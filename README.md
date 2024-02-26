@@ -63,8 +63,8 @@ let sadeel = [
 ### Projects
 
 #### Asthmaguard
-- Undergraduate thesis focusing on revolutionizing asthma detection and management through predictive algorithms.
-- Technologies: Swift, SwiftUI, SQL, Python and Predictive Algorithms, APIs, Artificial Intelligence Expert System, IoT and Sensors.
+- Undergraduate thesis focusing on revolutionizing asthma detection and management through advanced algorithms based on predictive analysis of the expert system derived from data science and sensor data derived from smart watches.
+- Technologies: Swift, SwiftUI, SQL, Python and Predictive Algorithms, APIs, Artificial Intelligence and Expert System, IoT and Smart Watches.
 - Status: Oct 2023 – present
 
 #### Ride Sharing All-in-One App
