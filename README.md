@@ -35,6 +35,7 @@ let sadeel = [
 ```
 
 ---
+[![Penn's GitHub stats](https://github-readme-stats.vercel.app/api?username=sadeelmu&count_private=true&hide_title=true&show_icons=true&hide_border=true&theme=nightowl&bg_color=161B22)](https://github.com/sadeelmu/sadeelmu)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeelmu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
