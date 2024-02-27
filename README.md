@@ -38,12 +38,12 @@ let sadeel = [
 ##### Experience
 
 ###### Junior iOS Engineer, [CAFU](https://www.cafu.com/)
-- Designing and developing new features, enhancing and maintaining legacy code for an application with 100,000 daily active users.
+- Designed and developed new features, refactored legacy code for the  release of CAFU v2 application, and enhanced and maintained legacy code for the CAFU v1 application with 100,000 daily active users.
 - Collaborated with the mobile team, applying Agile principles, utilizing the Scrum and Kanban frameworks, using software development tools such as Jira, and employing Git for development.
 - Remote Dubai, UAE (Dec 2023 – present)
 
 ###### Mobile Application Developer and Scientific Researcher, [European Centre for Research on Human Movement](https://dhm.euromov.eu/)
-- Developed two multi-platform iOS and Android native mobile applications with a complex algorithm aiding individuals with Parkinson's disease using Swift and Kotlin. 
+- Developed two multi-platform iOS and Android native mobile applications with a complex algorithm aiding individuals with Parkinson's disease using Swift and Kotlin.
 - Conducted scientific research on gesture recognition tools and artificial intelligence algorithms for music generation.
 - Montpellier, France (Jun 2023 – Dec 2023)
 
