@@ -35,18 +35,20 @@ let sadeel = [
 ```
 
 ---
-#### Experience
+##### Experience
 
-##### Junior iOS Engineer, [CAFU](https://www.cafu.com/)
-- Designing and developing new features, enhancing and maintaining legacy code for an application with 100,000 daily active users.
-- Collaborated with the mobile team, applying Agile principles, utilizing the Scrum and Kanban frameworks, using software development tools such as Jira, and employing Git for development.
-- Location: Remote Dubai, UAE (Dec 2023 – present)
+<div style="display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; padding: 10px;">
+        <strong>Junior iOS Engineer, <a href="https://www.cafu.com/">CAFU</a></strong><br>
+        - Designing and developing new features, enhancing and maintaining legacy code for an application with 100,000 daily active users. <br>
+        - Collaborated with the mobile team, applying Agile principles, utilizing the Scrum and Kanban frameworks, using software development tools such as Jira, and employing Git for            development.
+        - Location: Remote Dubai, UAE (Dec 2023 – present)
+        <strong>Mobile Application Developer and Scientific Researcher, <a href="https://dhm.euromov.eu/">European Centre for Research on Human Movement</a></strong><br>
+        - Developed a multi-platform mobile application with a complex algorithm aiding individuals with Parkinson's disease.<br>
+        - Conducted scientific research on gesture recognition tools and artificial intelligence algorithms for music generation.<br>
+        - Location: Montpellier, France (Jun 2023 – Dec 2023)
+    </div>
 
-##### Mobile Application Developer and Scientific Researcher, [European Centre for Research on Human Movement](https://dhm.euromov.eu/)
-- Developed a multi-platform mobile application with a complex algorithm aiding individuals with Parkinson's disease.
-- Conducted scientific research on gesture recognition tools and artificial intelligence algorithms for music generation.
-- Built compatible iOS and Android native applications using Swift and Kotlin.
-- Location: Montpellier, France (Jun 2023 – Dec 2023)
 
 ##### Freelance Mobile Flutter Developer, [MASH](https://github.com/sadeelmu/mashproject)
 - Developed using Flutter the cross-platform dating application 'Mash', managing application architecture, structure, user interface and services, and integration.
