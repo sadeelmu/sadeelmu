@@ -1,4 +1,4 @@
-## Sadel Muwahed 👩‍💻
+## Sadeel (Sadel) Muwahed 👩‍💻
 
 👩‍💻 **Software Developer** | 📱 **Junior iOS Engineer** | 📊 **Scientific Researcher**
 
