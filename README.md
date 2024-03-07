@@ -10,7 +10,7 @@
 
 ```swift
 let sadeel = [
-    "code": ["Swift", "Dart", "Javascript", "Java", "Kotlin", "Python", "SQL", "C#", "C++", "C"],
+    "code": ["Swift", "Java", "Javascript", "Python", "Kotlin", "Dart", "SQL", "C#", "C++", "C"],
     "technologies": [
         "mobileApp": [
             "native and crossplatform": ["iOS development", "android development", "flutter"],
