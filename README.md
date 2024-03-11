@@ -51,3 +51,10 @@ let sadeel = [
 - Developed using Flutter the cross-platform dating application 'Mash', managing application architecture, structure, user interface and services, and integration.
 - Conducted continuous validation through comprehensive testing for bugs and issues.
 - Remote Paris, France (Aug 2022 – Jan 2023)
+
+- # 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=sadeelmu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sadeelmu&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sadeelmu&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
