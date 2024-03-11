@@ -15,10 +15,10 @@ let sadeel = [
         "mobileApp": [
             "native and crossplatform": ["iOS development", "android development", "flutter"],
         ],
-        "optimizations":["algorithms", "data structures"],
         "ai": ["machine learning", "expert systems", "datascience", "tensorflow" "predictive algorithms"],
         "gamedev":["unity", "visual programming"],
         "iot":["robotics", "smartwatches", "xbox kinect"],
+        "optimizations":["algorithms", "data structures"],
         "webdev":[
                 "webProgramming":["javascript", "css5", "html", "jquery", "phpMyAdmin"],
                 "advancedInternetProgramming":["asp.net", "c#", "javascript", "html", "css"]
