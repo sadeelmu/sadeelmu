@@ -45,9 +45,9 @@ let sadeel = [
 ###### Mobile Application Developer and Scientific Researcher, [European Centre for Research on Human Movement](https://dhm.euromov.eu/)
 - Developed two multi-platform iOS and Android native mobile applications with a complex algorithm aiding individuals with Parkinson's disease using Swift and Kotlin.
 - Conducted scientific research on gesture recognition tools and artificial intelligence algorithms for music generation.
-- Montpellier, France (Jun 2023 – Dec 2023)
+- On-site Montpellier, France (Jun 2023 – Dec 2023)
 
 ###### Freelance Mobile Flutter Developer, [MASH](https://github.com/sadeelmu/mashproject)
 - Developed using Flutter the cross-platform dating application 'Mash', managing application architecture, structure, user interface and services, and integration.
 - Conducted continuous validation through comprehensive testing for bugs and issues.
-- Remote Paris, France (Aug 2022 – Jan 2023)
+- Paris, France (Aug 2022 – Jan 2023)
