@@ -39,7 +39,6 @@ let sadeel = [
 
 ###### iOS Engineer, [CAFU](https://www.cafu.com/)
 - Designed and developed new features, refactored legacy code for the  release of CAFU v2 application, and enhanced and maintained legacy code for the CAFU v1 application with 100,000 daily active users.
-- Collaborated with the mobile team, applying Agile principles, utilizing the Scrum and Kanban frameworks, using software development tools such as Jira, and employing Git for development.
 - Dubai, UAE (Dec 2023 – present)
 
 ###### Mobile Application Developer and Scientific Researcher, [European Centre for Research on Human Movement](https://dhm.euromov.eu/)
@@ -49,5 +48,4 @@ let sadeel = [
 
 ###### Freelance Mobile Flutter Developer, [MASH](https://github.com/sadeelmu/mashproject)
 - Developed using Flutter the cross-platform dating application 'Mash', managing application architecture, structure, user interface and services, and integration.
-- Conducted continuous validation through comprehensive testing for bugs and issues.
 - Paris, France (Aug 2022 – Jan 2023)
