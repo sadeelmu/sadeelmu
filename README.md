@@ -37,15 +37,12 @@ let sadeel = [
 ---
 ##### Experience
 
-###### iOS Engineer, [CAFU](https://www.cafu.com/)
+###### iOS Engineer, [CAFU](https://www.cafu.com/) - Dubai, UAE (Dec 2023 – present)
 - Designed and developed new features, refactored legacy code for the  release of CAFU v2 application, and enhanced and maintained legacy code for the CAFU v1 application with 100,000 daily active users.
-- Dubai, UAE (Dec 2023 – present)
 
-###### Mobile Application Developer and Scientific Researcher, [European Centre for Research on Human Movement](https://dhm.euromov.eu/)
+###### Mobile Application Developer and Scientific Researcher, [European Centre for Research on Human Movement](https://dhm.euromov.eu/) - Montpellier, France (Jun 2023 – Dec 2023)
 - Developed two multi-platform iOS and Android native mobile applications with a complex algorithm aiding individuals with Parkinson's disease using Swift and Kotlin.
 - Conducted scientific research on gesture recognition tools and artificial intelligence algorithms for music generation.
-- Montpellier, France (Jun 2023 – Dec 2023)
 
-###### Freelance Mobile Flutter Developer, [MASH](https://github.com/sadeelmu/mashproject)
+###### Freelance Mobile Flutter Developer, [MASH](https://github.com/sadeelmu/mashproject) - Paris, France (Aug 2022 – Jan 2023)
 - Developed using Flutter the cross-platform dating application 'Mash', managing application architecture, structure, user interface and services, and integration.
-- Paris, France (Aug 2022 – Jan 2023)
