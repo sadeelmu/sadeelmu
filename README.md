@@ -41,8 +41,8 @@ let sadeel = [
 - Developed and designed using Swift and SwiftUI new software, refactored legacy code for the release of CAFU v2 iOS app, and enhanced and maintained code for the CAFU v1 iOS app with 100,000 daily active users. 
 
 ###### Mobile Application Developer and Scientific Researcher, [EuroMov DHM BeatHealth Project](https://dhm.euromov.eu/) - Montpellier, France (Jun 2023 – Dec 2023)
-- Developed technologies for the BeatHealth project, an initiative aiming to assist individuals afflicted with Parkinson's Disease by enhancing motor skills, using Python, Swift, and Kotlin. 
-- Conducted scientific research on gesture recognition tools and artificial intelligence algorithms for music generation in GenAI.
+- Developed and researched the body-tracking and music-rhythm algorithm and software for the BeatHealth project, which aims to assist people suffering from Parkinson's Disease by enhancing motor skills.
+•Conducted scientific research and assessed body-tracking gesture recognition tools, sensor technologies, and artificial intelligence algorithms for music generation and GenAI tools.
 
 ###### Freelance Mobile Flutter Developer, [MASH](https://github.com/sadeelmu/mashproject) - Paris, France (Aug 2022 – Jan 2023)
 - Developed using Flutter the cross-platform iOS and Android social media app 'Mash', managing application architecture, custom state management, user interface and services, localization, and database integration.
