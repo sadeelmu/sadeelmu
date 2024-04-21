@@ -11,7 +11,7 @@
 ```python
 sadeel = {
     "pronouns": ["She", "Her"],
-    "askMeAbout": ["Heatlh and Tech", "Machine Learning", "App Dev", "Music", "Sensor Tracking and Movement", "Web Dev", "Tech", "Muay Thai", "Fractals", "Tetris"],
+    "askMeAbout": ["Heatlh and Tech", "Muay Thai", "Music", "Computer Vision", "Fractals", "Tetris"],
 
     "code": ["Python", "Swift", "SQL", "Kotlin", "Dart", "Javascript", "C#", "C++", "C", "Matlab"],
     "ai": ["Machine Learning", "Data Science Engineering", "Data Visualization", "HealthTech", "Computer Vision"],
