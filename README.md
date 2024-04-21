@@ -38,7 +38,7 @@ let sadeel = [
 ##### Experience
 
 ###### iOS Engineer, [CAFU](https://www.cafu.com/) - Dubai, UAE (Dec 2023 – present)
-- Developed and designed using Swift and SwiftUI new software, refactored legacy code for the release of CAFU v2 iOS app, and enhanced and maintained code for the CAFU v1 iOS app with 100,000 daily active users. 
+- Enhanced and maintained code for the CAFU iOS application with 100,000 daily active users, refactored legacy code, implemented clean code, and developed new software for app connectivity.
 
 ###### Mobile Application Developer and Scientific Researcher, [EuroMov DHM BeatHealth Project](https://dhm.euromov.eu/) - Montpellier, France (Jun 2023 – Dec 2023)
 - Developed and researched the body-tracking and music-rhythm algorithm and software for the BeatHealth project, which aims to assist people suffering from Parkinson's Disease by enhancing motor skills.
