@@ -22,10 +22,8 @@ sadeel = {
     "frameworks": ["Flutter", "Agile", "Scrum", "Kanban"],
     "databases": ["SQLite", "LiveSQL", "Oracle", "Firebase"],
 
-    "theory": ["Linear Algebra", "Principles of Probability", "Statistical Methods", "Numerical Analysis", "Discrete Mathematics", "Theory of Computation", "Calculus", "Algorithms 
-    Design and Analysis", "Data Structures"],
-    "concepts": ["Machine Learning", "Data Science Engineering", "Data Visualization", "HealthTech", "Computer Vision", "Software Engineering", "Object Oriented Programming", "Internet 
-     of Things"],
+    "theory": ["Linear Algebra", "Principles of Probability", "Statistical Methods", "Numerical Analysis", "Discrete Mathematics", "Theory of Computation", "Calculus", "Algorithms Design and Analysis", "Data Structures", "Object Oriented Programming"],
+    "concepts": ["Machine Learning", "Data Science Engineering", "Data Visualization", "HealthTech", "Computer Vision", "Software Engineering", "Internet of Things"],
 }
 ```
 ---
