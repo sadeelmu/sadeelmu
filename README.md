@@ -18,7 +18,7 @@ sadeel = {
     "mobiledev": ["iOS development", "Android development", "Flutter crossplatform development"],
 
     "python_libraries": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy", "Matplotlib", "OpenCV", "PyAudio"],
-    "softwares": ["Git", "Jupyter Notebook", "Colab Notebook", "Linux"],
+    "softwares": ["Git", "Jupyter Notebook", "Linux"],
     "frameworks": ["Flutter", "Agile", "Scrum", "Kanban"],
     "databases": ["SQLite", "LiveSQL", "Oracle", "Firebase"],
 
