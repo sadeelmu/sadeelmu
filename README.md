@@ -8,14 +8,34 @@
 
 ##### ⭐ A little more about me...  
 
-```swift
+```python
+sadeel = {
+    "pronouns": ["She", "Her"],
+    "askMeAbout": ["Heatlh and Tech", "Machine Learning", "App Dev", "Music", "Sensor Tracking and Movement", "Web Dev", "Tech", "Muay Thai", "Fractals", "Tetris"],
+
+    "code": ["Python", "Swift", "SQL", "Kotlin", "Dart", "Javascript", "C#", "C++", "C", "Matlab"],
+    "ai": ["Machine Learning", "Data Science Engineering", "Data Visualization", "HealthTech", "Computer Vision"],
+    "mobiledev": ["iOS development", "Android development", "Flutter crossplatform development"],
+
+    "python_libraries": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy", "Matplotlib", "OpenCV", "PyAudio"],
+    "softwares": ["Git", "Jupyter Notebook", "Colab Notebook", "Linux"],
+    "frameworks": ["Flutter", "Agile", "Scrum", "Kanban"],
+    "databases": ["SQLite", "LiveSQL", "Oracle", "Firebase"],
+
+    "theory": ["Linear Algebra", "Principles of Probability", "Statistical Methods", "Numerical Analysis", "Discrete Mathematics", "Theory of Computation", "Calculus", "Algorithms 
+    Design and Analysis", "Data Structures"],
+    "concepts": ["Machine Learning", "Data Science Engineering", "Data Visualization", "HealthTech", "Computer Vision", "Software Engineering", "Object Oriented Programming", "Internet 
+     of Things"],
+}
+```
 let sadeel = [
-    "code": ["Swift", "Java", "Javascript", "Python", "Kotlin", "Dart", "SQL", "C#", "C++", "C"],
+    "code": ["Swift", "Python", "SQL", "Kotlin", "Java", "Javascript","Dart", "C#", "C++", "C"],
+    "ai": ["machine learning", "computer vision", "datascience", "tensorflow" "predictive algorithms"],
     "technologies": [
         "mobileApp": [
             "native and crossplatform": ["iOS development", "android development", "flutter"],
         ],
-        "ai": ["machine learning", "expert systems", "datascience", "tensorflow" "predictive algorithms"],
+     
         "gamedev":["unity", "visual programming"],
         "iot":["robotics", "smartwatches", "xbox kinect"],
         "optimizations":["algorithms", "data structures"],
@@ -32,7 +52,9 @@ let sadeel = [
     "pronouns": ["She", "Her"],
     "askMeAbout": ["app dev", "music", "sensor tracking and movement", "web dev", "tech", "muay thai", "fractals", "tetris"]
 ]
-```
+
+
+
 
 ---
 ##### Experience
