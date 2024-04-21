@@ -22,9 +22,15 @@ sadeel = {
     "frameworks": ["Flutter", "Agile", "Scrum", "Kanban"],
     "databases": ["SQLite", "LiveSQL", "Oracle", "Firebase"],
 
+    "webdev": {
+        "webProgramming": ["javascript", "css5", "html", "jquery", "phpMyAdmin"],
+        "advancedInternetProgramming": ["asp.net", "c#", "javascript", "html", "css"]
+    },
+    "gamedev": ["unity", "visual programming"],
+
     "theory": ["Algorithms Design and Analysis", "Data Structures", "Object Oriented Programming", "Clean Code", "Design Problems"],
     "concepts": ["Machine Learning", "Data Science Engineering", "Data Visualization", "HealthTech", "Computer Vision", "Software Engineering", "Internet of Things"],
-    "math": ["Linear Algebra", "Principles of Probability", "Statistical Methods", "Numerical Analysis", "Discrete Mathematics", "Theory of Computation", "Calculus"],
+    "math": ["Linear Algebra", "Principles of Probability", "Statistical Methods", "Numerical Analysis", "Discrete Mathematics", "Theory of Computation", "Calculus"]
 }
 ```
 ---
