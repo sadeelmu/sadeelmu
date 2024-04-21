@@ -28,34 +28,6 @@ sadeel = {
      of Things"],
 }
 ```
-let sadeel = [
-    "code": ["Swift", "Python", "SQL", "Kotlin", "Java", "Javascript","Dart", "C#", "C++", "C"],
-    "ai": ["machine learning", "computer vision", "datascience", "tensorflow" "predictive algorithms"],
-    "technologies": [
-        "mobileApp": [
-            "native and crossplatform": ["iOS development", "android development", "flutter"],
-        ],
-     
-        "gamedev":["unity", "visual programming"],
-        "iot":["robotics", "smartwatches", "xbox kinect"],
-        "optimizations":["algorithms", "data structures"],
-        "webdev":[
-                "webProgramming":["javascript", "css5", "html", "jquery", "phpMyAdmin"],
-                "advancedInternetProgramming":["asp.net", "c#", "javascript", "html", "css"]
-            ],
-        ],
-        "softwares": ["Linux", "Git"],
-        "frameworks": ["Flutter", "Agile", "Scrum", "Kanban"],
-        "databases": ["Oracle", "MySql", "liveSQL"],
-        "misc": ["Unity", "Firebase", "phpMyAdmin", "jQuery", "ASP.net"]
-    ],
-    "pronouns": ["She", "Her"],
-    "askMeAbout": ["app dev", "music", "sensor tracking and movement", "web dev", "tech", "muay thai", "fractals", "tetris"]
-]
-
-
-
-
 ---
 ##### Experience
 
