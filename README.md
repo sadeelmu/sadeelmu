@@ -1,6 +1,6 @@
 ## Sadeel (Sadel) Muwahed 👩‍💻
 
-👩‍💻 **Software Developer** | 📊 **Scientific Researcher** | 📱 **iOS Engineer** | 
+👩‍💻 **Software Developer** | 📊 **Research Engineer** | 📱 **iOS Engineer** | 
 
 📧 **Email:** sadeelmu@outlook.com | 🌐 **LinkedIn:** [Sadeel Muwahed](https://www.linkedin.com/in/sadeel-muwahed/) 
 
