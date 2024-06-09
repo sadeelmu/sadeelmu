@@ -22,10 +22,7 @@ sadeel = {
     "frameworks": ["Flutter", "Agile", "Scrum", "Kanban"],
     "databases": ["SQLite", "LiveSQL", "Oracle", "Firebase"],
 
-    "webdev": {
-        "webProgramming": ["javascript", "css5", "html", "jquery", "phpMyAdmin"],
-        "advancedInternetProgramming": ["asp.net", "c#", "javascript", "html", "css"]
-    },
+    "webdev": [ "web programming", "asp.net"],
     "gamedev": ["unity", "visual programming"],
 
     "theory": ["Algorithms Design and Analysis", "Data Structures", "Object Oriented Programming", "Clean Code", "Design Problems"],
