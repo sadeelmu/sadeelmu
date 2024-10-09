@@ -13,13 +13,16 @@ sadeel = {
     "pronouns": ["She", "Her"],
     "askMeAbout": ["Heatlh and Tech", "Muay Thai", "Music", "Computer Vision", "Fractals", "Tetris"],
 
-    "code": ["Python", "Swift", "SQL", "Kotlin", "Dart", "Javascript", "C#", "C++", "C", "Matlab"],
-    "ai": ["Machine Learning", "Data Science Engineering", "Data Visualization", "HealthTech", "Computer Vision"],
+    "code": ["Swift", "Kotlin", "Python", "Flutter", "SQL", "Javascript", "C#", "C++", "C", "Matlab"],
     "mobiledev": ["iOS development", "Android development", "Flutter crossplatform development"],
 
+    "ai": ["Machine Learning", "Data Science Engineering", "Data Visualization", "HealthTech", "Computer Vision"],
     "python_libraries": ["Scikit-learn", "TensorFlow", "Pandas", "NumPy", "Matplotlib", "OpenCV", "PyAudio"],
+
+    "technical": ["Clean Code and Clean Architecture", "Unit Testing", "SOLID principles", "Design Patterns"],
+
     "softwares": ["Git", "Jupyter Notebook", "Linux"],
-    "frameworks": ["Flutter", "Agile", "Scrum", "Kanban"],
+    "frameworks": ["Agile", "Scrum", "Kanban"],
     "databases": ["SQLite", "LiveSQL", "Oracle", "Firebase"],
 
     "webdev": [ "web programming", "asp.net"],
