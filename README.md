@@ -37,7 +37,7 @@ sadeel = {
 ##### Experience
 
 
-##### 🧠 Research Engineer Intern  
+##### Research Engineer Intern  
 **[Institut de Neurosciences des Systèmes – Inserm](https://ins-amu.fr/tng)** – Marseille, France  
 *May 2025 – Aug 2025*  
 - Analyzed intracranial stereoelectroencephalography data using spectral decomposition, intrinsic timescales, line attractor dynamics, dimensionality reduction, unsupervised ML models, and recurrence-based causal driver analysis.  
@@ -46,7 +46,7 @@ sadeel = {
 
 ---
 
-##### 💻 Software Engineer  
+##### Software Engineer  
 **[CAFU](https://www.cafu.com/)** – Dubai, UAE *(Remote)*  
 *Dec 2023 – Nov 2024*  
 - Led iOS app connectivity features for CAFU, an app with 100k+ daily active users.  
@@ -55,7 +55,7 @@ sadeel = {
 
 ---
 
-##### 📱 R&D Engineer (Freelance)  
+##### R&D Engineer (Freelance)  
 **[CoachAI](https://www.linkedin.com/company/coachai-tech/)** – Remote Dubai, UAE  
 *Jun 2024 – Oct 2024*  
 - Built iOS fitness application integrating computer vision and ML for real-time feedback and progress tracking.  
@@ -63,7 +63,7 @@ sadeel = {
 
 ---
 
-##### 🎵 R&D Engineer Intern  
+##### R&D Engineer Intern  
 **[EuroMov DHM – BeatHealth Project](https://www.beathealth.tech/en)** – Montpellier, France  
 *Jun 2023 – Dec 2023*  
 - Developed software for BeatHealth, supporting patients with walking disorders (Parkinson’s focus).  
@@ -71,7 +71,7 @@ sadeel = {
 
 ---
 
-##### 🌍 Software Developer  
+##### Software Developer  
 **[MASH Project](https://github.com/sadeelmu/mashproject)** – Paris, France  
 *Aug 2022 – Jan 2023*  
 - Built cross-platform iOS/Android social media app “Mash” using Flutter.  
